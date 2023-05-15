@@ -1,8 +1,8 @@
-# Multitrack Player
+# Chöre Multitrack Player
 
 https://dhulme.uk/multitrack-player/
 
-A multitrack audio file player for the browser.
+A multitrack audio file player für die Chör.
 
 Built using Vue, the Vuetify UI framework and peaks.js audio waveform library.
 
