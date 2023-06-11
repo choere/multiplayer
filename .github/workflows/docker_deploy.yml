@@ -9,7 +9,7 @@ jobs:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout 🛎️
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Build and export
@@ -21,10 +21,10 @@ jobs:
           secrets: |
             GIT_AUTH_TOKEN=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
 
-      - name: Deploy 🚀
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: build/app # The folder the action should deploy.
-          token: ${{ secrets.ACCESS_TOKEN }}
-          BRANCH: gh-pages
+          folder: . # The folder the action should deploy.
+          token: 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
+          BRANCH: master
           # clean: true
