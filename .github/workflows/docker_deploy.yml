@@ -19,7 +19,7 @@ jobs:
           tags: myimage:latest
           outputs: type=local,dest=build
           secrets: |
-            GIT_AUTH_TOKEN=${{ secrets.ACCESS_TOKEN }}
+            GIT_AUTH_TOKEN=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
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
