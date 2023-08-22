@@ -3,14 +3,7 @@
     <VCard>
       <VCardTitle>About</VCardTitle>
       <VCardText class="text-center">
-        <p>Created by David Hulme</p>
-        <p>
-          <a href="https://github.com/dhulme/multitrack-player"
-            >github.com/dhulme/multitrack-player</a
-          ><br />
-          <a href="https://dhulme.uk">dhulme.uk</a><br />
-          <a href="https://twitter.com/hulmed">@hulmed</a>
-        </p>
+        <p>Multi track player</p>
         <p>Version {{ version }}</p>
       </VCardText>
     </VCard>

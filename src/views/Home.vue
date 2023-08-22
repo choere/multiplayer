@@ -2,18 +2,18 @@
   <VContainer>
     <SettingsDialog />
     <AboutDialog />
-    <TrackManager />
+    <SongManager />
   </VContainer>
 </template>
 
 <script>
-import TrackManager from '@/components/TrackManager';
+import SongManager from '@/components/SongManager';
 import SettingsDialog from '@/components/SettingsDialog';
 import AboutDialog from '@/components/AboutDialog';
 
 export default {
   components: {
-    TrackManager,
+    SongManager,
     SettingsDialog,
     AboutDialog
   },
