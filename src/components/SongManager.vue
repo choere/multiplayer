@@ -35,7 +35,6 @@ var newfiles = [];
 var files = ['this song', 'thath song', 'test song'];
 const http = require('http');
 
-fs.readdir('./data/', (err, files) => {
   var i = 1;
   files.forEach(file => {
     newfiles.push({
@@ -44,7 +43,6 @@ fs.readdir('./data/', (err, files) => {
     });
     i++;
   });
-});
 var newfiles2 = [
   {
     id: 1,

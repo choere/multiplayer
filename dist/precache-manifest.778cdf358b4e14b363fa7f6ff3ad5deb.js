@@ -8,24 +8,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/multitrack-player/click.wav"
   },
   {
-    "revision": "b69a496654256414e4af",
-    "url": "/multitrack-player/css/app.f8f52b11.css"
+    "revision": "5e9c4e7467250d6a77c9",
+    "url": "/multitrack-player/css/app.923d3ff2.css"
   },
   {
-    "revision": "fc020db6c4fbfb83a7fd",
+    "revision": "e203a679948f718d5385",
     "url": "/multitrack-player/css/chunk-vendors.0ba4c4e7.css"
   },
   {
-    "revision": "b9ed99da89a497306fcd037c3f8175b8",
+    "revision": "d58d3a93fc14d203076cd2f0d8a4a91f",
     "url": "/multitrack-player/index.html"
   },
   {
-    "revision": "b69a496654256414e4af",
-    "url": "/multitrack-player/js/app.b0bb221b.js"
+    "revision": "5e9c4e7467250d6a77c9",
+    "url": "/multitrack-player/js/app.a119c043.js"
   },
   {
-    "revision": "fc020db6c4fbfb83a7fd",
-    "url": "/multitrack-player/js/chunk-vendors.122e0c80.js"
+    "revision": "e203a679948f718d5385",
+    "url": "/multitrack-player/js/chunk-vendors.9b9078b8.js"
   },
   {
     "revision": "f57d8b10d7aa472575517c29ecca028f",
